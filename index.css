@@ -7,6 +7,15 @@
     color: white;
     padding-top:  210px; 
 }
+.h1{
+    padding-top: 70px;
+}
 .mouse{
     padding-top: 110px;
+}
+h1{
+    font-size: 35px;
+}
+h4{
+    font-size: 14px;
 }
