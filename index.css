@@ -1,0 +1,7 @@
+.home{
+    height: 700px;
+    background-image: url("./images/delani2.jpg");
+    background-size: 100%;
+    background-size: cover;
+    text-align: center;
+}
