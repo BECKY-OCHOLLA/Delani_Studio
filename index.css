@@ -42,3 +42,8 @@ h2{
     font-size: 25px;
     font-weight: bold;
 }
+#row{
+    text-align: center;
+    height: 400px;
+    padding-top: 50px;
+}
