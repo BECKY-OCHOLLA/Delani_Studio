@@ -58,15 +58,36 @@ h3{
     text-align: center;
 }
 #back{
-    background-image: url("./images/delani13.jpg");
+    /* background-image: url("./images/delani13.jpg ");
     background-size: cover;
-    /* height: 210px;
-    width: 210px;
-    padding-right: 50px; */
+    background-size: 210px;
+    height: 210px; */
+    /* width: 210px;
+    padding-right: 50px;   */
     color: white;
     font-size: 25px;
     display: block;
     font-weight: bold;
     
    
+}
+.form{
+    text-align: center; 
+    justify-content: center;
+    padding-top: 50px;
+    background-image: url("");
+}
+ #form{
+    text-align: center;
+    justify-content: center;
+}
+#form2{
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    
+
+}  
+.cont{
+    color: white;
 }
