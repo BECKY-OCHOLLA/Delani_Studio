@@ -75,7 +75,8 @@ h3{
     text-align: center; 
     justify-content: center;
     padding-top: 50px;
-    background-image: url("");
+    background-image: url("./images/Delani1.jpg");
+    background-size: cover;
 }
  #form{
     text-align: center;
