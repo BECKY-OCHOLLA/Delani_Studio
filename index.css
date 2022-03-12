@@ -72,27 +72,62 @@ h3{
     
    
 }
-.form{
+.contact{
     text-align: center; 
     justify-content: center;
     padding-top: 50px;
     background-image: url("./images/Delani1.jpg");
     background-size: cover;
-}
- #form{
-    text-align: center;
-    justify-content: center;
-}
-#form2{
-    display: flex;
-    justify-content: center;
     height: 500px;
+}
+#message{
     
+    padding-bottom: 150px;
+    padding-right: 100px;
+    width: 680px;
+    color: white;
+}
+#name,#email{
+    width: 380px;
+    color: white;
+}
 
-}  
-.cont{
+h2{
     color: white;
 }
 #del{
     font-size: 12px;
+}
+
+
+.para{
+    position: absolute;
+    width: 80%;
+    height: 80%;
+    background: rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    z-index: 2;
+    top: 10%;
+    left: 10%;
+    display: flex;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    margin-right: -2vw;
+}
+.lio{
+    color: white;
+    font-weight: bolder;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    border: 0.1vw solid whitesmoke;
+    font-size:2vw;
+    text-align: center;
+    height: 80%;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 1.5vw;
+    margin-top: 1.5vw;
 }
