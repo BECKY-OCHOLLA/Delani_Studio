@@ -102,9 +102,13 @@ h2{
 #del{
     font-size: 12px;
 }
+#project{
+    position: relative;
+    width: 23%;
+  
+  }
 
-
-.para{
+.graph1{
     position: absolute;
     width: 80%;
     height: 80%;
@@ -120,6 +124,262 @@ h2{
     margin-right: -2vw;
 }
 .lio{
+    color: white;
+    font-weight: bolder;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    border: 0.1vw solid whitesmoke;
+    font-size:2vw;
+    text-align: center;
+    height: 80%;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 1.5vw;
+    margin-top: 1.5vw;
+}
+
+#project1{
+    position: relative;
+    width: 23%;
+  
+  }
+
+.graph2{
+    position: absolute;
+    width: 80%;
+    height: 80%;
+    background: rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    z-index: 2;
+    top: 10%;
+    left: 10%;
+    display: flex;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    margin-right: -2vw;
+}
+.lio1{
+    color: white;
+    font-weight: bolder;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    border: 0.1vw solid whitesmoke;
+    font-size:2vw;
+    text-align: center;
+    height: 80%;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 1.5vw;
+    margin-top: 1.5vw;
+}
+
+#project2{
+    position: relative;
+    width: 23%;
+  
+  }
+
+.graph3{
+    position: absolute;
+    width: 80%;
+    height: 80%;
+    background: rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    z-index: 2;
+    top: 10%;
+    left: 10%;
+    display: flex;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    margin-right: -2vw;
+}
+.lio2{
+    color: white;
+    font-weight: bolder;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    border: 0.1vw solid whitesmoke;
+    font-size:2vw;
+    text-align: center;
+    height: 80%;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 1.5vw;
+    margin-top: 1.5vw;
+}
+#project3{
+    position: relative;
+    width: 23%;
+  
+  }
+
+.graph4{
+    position: absolute;
+    width: 80%;
+    height: 80%;
+    background: rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    z-index: 2;
+    top: 10%;
+    left: 10%;
+    display: flex;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    margin-right: -2vw;
+}
+.lio3{
+    color: white;
+    font-weight: bolder;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    border: 0.1vw solid whitesmoke;
+    font-size:2vw;
+    text-align: center;
+    height: 80%;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 1.5vw;
+    margin-top: 1.5vw;
+}
+#project4{
+    position: relative;
+    width: 23%;
+  
+}
+.graph5{
+    position: absolute;
+    width: 80%;
+    height: 80%;
+    background: rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    z-index: 2;
+    top: 10%;
+    left: 10%;
+    display: flex;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    margin-right: -2vw;
+}
+.lio4{
+    color: white;
+    font-weight: bolder;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    border: 0.1vw solid whitesmoke;
+    font-size:2vw;
+    text-align: center;
+    height: 80%;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 1.5vw;
+    margin-top: 1.5vw;
+}
+#project5{
+    position: relative;
+    width: 23%;
+}
+.graph6{
+    position: absolute;
+    width: 80%;
+    height: 80%;
+    background: rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    z-index: 2;
+    top: 10%;
+    left: 10%;
+    display: flex;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    margin-right: -2vw;
+}
+.lio5{
+    color: white;
+    font-weight: bolder;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    border: 0.1vw solid whitesmoke;
+    font-size:2vw;
+    text-align: center;
+    height: 80%;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 1.5vw;
+    margin-top: 1.5vw;
+}
+#project6{
+    position: relative;
+    width: 23%;
+}
+  
+.graph7{
+    position: absolute;
+    width: 80%;
+    height: 80%;
+    background: rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    z-index: 2;
+    top: 10%;
+    left: 10%;
+    display: flex;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    margin-right: -2vw;
+}
+.lio6{
+    color: white;
+    font-weight: bolder;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    border: 0.1vw solid whitesmoke;
+    font-size:2vw;
+    text-align: center;
+    height: 80%;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 1.5vw;
+    margin-top: 1.5vw;
+}
+#project7{
+    position: relative;
+    width: 23%;
+}
+  
+.graph8{
+    position: absolute;
+    width: 80%;
+    height: 80%;
+    background: rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    z-index: 2;
+    top: 10%;
+    left: 10%;
+    display: flex;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    margin-right: -2vw;
+}
+.lio7{
     color: white;
     font-weight: bolder;
     padding-top: 1vw;

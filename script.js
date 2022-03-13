@@ -55,15 +55,51 @@ $(".product").click(function(){
 });
 
 
-//  hover effect on portfolio
+//  hover effect on portfolio(section1)
 
-$(document).ready(function(){
-    $("#project").hover(function(){
-      $(this).children("#graph1").stop().animate({"top":300,"opacity":0.1},700);
-      }, function(){
-      $(this).children("graph1").stop().animate({"top":0,"opacity":1},400);
-    });
+// $(document).ready(function(){
+//     $("#project").hover(function(){
+//       $(this).children("#graph1").stop().animate({"top":300,"opacity":0.1},700);
+//       }, function(){
+//       $(this).children("graph1").stop().animate({"top":0,"opacity":1},400);
+//     });
+//   });
+
+$("#project").hover(function () {
+    $(this).children(".graph1").fadeToggle(1000, "linear");
   });
+
+  $("#project1").hover(function () {
+    $(this).children(".graph2").fadeToggle(1000, "linear");
+  });
+
+  $("#project2").hover(function () {
+    $(this).children(".graph3").fadeToggle(1000, "linear");
+  });
+
+  $("#project3").hover(function () {
+    $(this).children(".graph4").fadeToggle(1000, "linear");
+  });
+
+//   hover effect section2
+
+ $("#project4").hover(function () {
+    $(this).children(".graph5").fadeToggle(1000, "linear");
+  });
+
+  $("#project5").hover(function () {
+    $(this).children(".graph6").fadeToggle(1000, "linear");
+  });
+
+  $("#project6").hover(function () {
+    $(this).children(".graph7").fadeToggle(1000, "linear");
+  })
+
+  $("#project7").hover(function () {
+    $(this).children(".graph8").fadeToggle(1000, "linear");
+  })
+  
+
 
 
 // form validation{}
