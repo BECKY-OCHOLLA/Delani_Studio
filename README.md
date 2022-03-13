@@ -43,6 +43,7 @@ This is a landing page to Delani Studio. Astudio yhatbdevelopes websites accordi
 
 Live link
 Here is the live link to the website.
+https://becky-ocholla.github.io/Delani_Studio/
 
 
 ### Reference
