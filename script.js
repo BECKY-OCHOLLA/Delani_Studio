@@ -1,6 +1,7 @@
 // toggle
 $(document).ready(function(){
     $(".p1").click(function(){
+        $(".design").hide();
         $(".design").toggle();
         $("#img1").toggle();
         
@@ -28,35 +29,35 @@ $(document).ready(function(){
 
 });
 
-$(document).ready(function(){
+ $(document).ready(function(){
     $("#img1").click(function(){
-        $(".design").toggle();
-        $("#img1").toggle();
+         $(".design").toggle();
+         $("#img1").toggle();
     
 
     });
 
 });
 
-$(document).ready(function(){
-    $("#img2").click(function(){
-        $(".development").toggle();
+ $(document).ready(function(){
+     $("#img2").click(function(){
+      $(".development").toggle();
         $("#img2").toggle();
     
 
-    });
+     });
 
-});
+ });
 
-$(document).ready(function(){
-    $("#img3").click(function(){
+ $(document).ready(function(){
+     $("#img3").click(function(){
         $(".product").toggle();
-        $("#img3").toggle();
+         $("#img3").toggle();
     
 
-    });
+  });
 
-});
+ });
 
 
 // hover
@@ -81,13 +82,6 @@ function validate(){
     }else{
         alert("Hello" +" " + name + " "+"we have received your message. Thank you for reaching out to us. ")
     }
-}
-
-        
-
-        
-
-        
-
+}        
 
 
