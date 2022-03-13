@@ -44,9 +44,9 @@ h2{
 }
 #row{
     text-align: center;
-    height: 400px;
+     height: 300px; 
     padding-top: 50px;
-}
+} 
 h3{
     font-size: 25px;
     font-weight: bold;
@@ -56,7 +56,7 @@ h3{
 }
 #row1{
     text-align: center;
-    padding-bottom: 50px;
+    padding-bottom: 50px; 
 }
 #back{
     /* background-image: url("./images/delani13.jpg ");
@@ -82,10 +82,10 @@ h3{
 }
 #message{
     
+    
+    width: 600px;
     padding-bottom: 150px;
-    padding-right: 100px;
-    width: 680px;
-    color: white;
+
 }
 #name,#email{
     width: 380px;
@@ -94,6 +94,10 @@ h3{
 
 h2{
     color: white;
+}
+.h2{
+    color: black;
+    font-weight: bold;
 }
 #del{
     font-size: 12px;
@@ -131,3 +135,24 @@ h2{
     margin-left: 1.5vw;
     margin-top: 1.5vw;
 }
+#card{
+    position: relative;
+}
+.p1, .p2,.p3{
+    position: absolute;
+    width: 100%;
+    height: auto;
+}
+.design, .development, .product{
+    display: none;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    height:auto
+    
+}
+.class1{
+    font-size: 25px;
+    font-weight: bold;
+}
+
